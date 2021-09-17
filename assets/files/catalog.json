@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "HUAWEI P40 PRO",
+            "desc": "P40 Pro Single SIM 8GB+512GB (ELS-N04)",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/en/mkt/plp/new-phones/new-imgs/p40-pro-silver.png"
+        },
+        {
+            "id": 2,
+            "name": "HUAWEI MateBook X Pro 2021",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/en/mkt/pdp/pc/matebook-x-pro-2021/specs-list.png"
+        },
+        {
+            "id": 3,
+            "name": "HUAWEI P30 Pro",
+            "desc": "P30 Pro Single SIM 8GB+256GB (VOG-L09)",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/en/mkt/plp/new-phones/product-list/P30Pro_white.png"
+        },
+        {
+            "id": 4,
+            "name": "HUAWEI M-Pen 2",
+            "desc": "11.2 ms Low Latency| 4096 Pressure Sensitivity | Multi-device Connection",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/accessories/m-pen2/list-img/list-img.png"
+        },
+        {
+            "id": 5,
+            "name": "HUAWEI Sound",
+            "desc": "Devialet 4-speaker Acoustic Design丨Huawei Share丨360 Degree Surround",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/en/mkt/plp/speakers/02-list-sound.png"
+        },
+        {
+            "id": 6,
+            "name": "HUAWEI FreeLace",
+            "desc": "Intelligent Connection丨Titanium Dynamic Driver丨Long Battery Life",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/en/mkt/plp/headphones/02-list-freelace.png"
+        },
+        {
+            "id": 7,
+            "name": "HUAWEI FreeBuds 4",
+            "desc": "Open-fit Active Noise Cancellation 2.0 | Air-like Comfort | High Resolution Sound",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/headphones/freebuds4/specs/list.png"
+        },
+        {
+            "id": 8,
+            "name": "HUAWEI Bluetooth Mouse",
+            "desc": "Premium Design, Precise Movement",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/laptops/04accessories_01.png"
+        }
+    ]
+}
